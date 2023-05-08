@@ -23,4 +23,4 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/luigishii)
 [![Linkedin](	https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luigi-ishii-055136236/)
 
-
+![snake gif](https://github.com/RafCarrasco/RafCarrasco/blob/output/github-contribution-grid-snake.svg)
